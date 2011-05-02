@@ -6,6 +6,16 @@ For now only markdown formatting is supported, but you can also use pure html in
 
 
 
+## Using as a Spark
+
+There are 3 things you need to do to make the spark work:
+
+1. Change the routes config for both the default controller and the 404 override to point to the same controller, ie. welcome.
+2. Run the spark in your index method of the default controller: $this->lack->run()
+3. Create the same data folder structure as found in the example app https://github.com/bstrahija/Lack
+
+
+
 ## Single entry usage
 
 All the data files are inside the **/data** directory. The name of the file (without the extension) coresponds to the URI segment.
