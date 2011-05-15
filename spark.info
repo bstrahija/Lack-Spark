@@ -4,4 +4,4 @@ version: 0.2.1
 
 compatibility: 2.0.2
 
-tags: ["cms", "file"]
+tags: ["cms", "file", "simple"]
