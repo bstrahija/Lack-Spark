@@ -107,3 +107,4 @@ The template for the entry list would then look like this:
 	
 	{footer}
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bstrahija/lack-spark/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
